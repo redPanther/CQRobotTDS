@@ -40,8 +40,6 @@ private:
 	float adcRange;
 	float temperature;
  
-	float analogValue;
-	float voltage;
 	float tdsValue;
 	int analogBuffer[CQROBOT_SCOUNT];    // store the analog value in the array, read from ADC
 	int analogBufferTemp[CQROBOT_SCOUNT];
