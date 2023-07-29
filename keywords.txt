@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For CQRobot TDS Sensor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CQRobotTDS	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+update	KEYWORD2
+setTemperature	KEYWORD2
+setAdcRange	KEYWORD2
+getTdsValue	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ 
